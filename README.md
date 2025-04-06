@@ -1,16 +1,14 @@
-# quizz_app
+📱 Flutter Live Quiz App (Host & Player over Local Wi-Fi)
+A real-time quiz app built with Flutter that lets users host and join quizzes over the same local Wi-Fi network—no internet required! Perfect for classrooms, parties, or events where everyone’s on the same network.
 
-A new Flutter project.
+🎮 Host Mode: Create and manage live quiz sessions
 
-## Getting Started
+🙋‍♂️ Player Mode: Join quiz sessions and answer questions in real time
 
-This project is a starting point for a Flutter application.
+📶 Local Wi-Fi Connectivity: No online servers needed—works entirely on local network
 
-A few resources to get you started if this is your first Flutter project:
+🧑‍🤝‍🧑 Real-time player interaction and leaderboard
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚡ Fast and low-latency communication between devices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌗 Light & dark mode support
