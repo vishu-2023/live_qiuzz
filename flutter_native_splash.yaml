@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#000000" # black background
+  image: asset/image/spalsh_logo.png
+  android: true
+  ios: true
+  fullscreen: true
+  android_gravity: center
+  ios_content_mode: center
